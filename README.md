@@ -1,9 +1,8 @@
-### Hi there 👋
-# ¡Bienvenido a mi perfil de GitHub! 👋
+# ¡Bienvenido al perfil de GitHub de Abel Gómez Méndez! 👋
 
 ## Sobre mí 🚀
 
-Soy un apasionado **Desarrollador de Python** especializado en **backend con FastAPI**. Tengo experiencia trabajando con **bases de datos SQL y NoSQL**, incluyendo **MongoDB**. Además, me dedico al **análisis de datos** y tengo habilidades en **pandas**, **NumPy** y **scikit-learn**.
+Mi nombre es **Abel Gómez Méndez**, un apasionado **Desarrollador de Python** especializado en **backend con FastAPI**. Tengo experiencia trabajando con **bases de datos SQL y NoSQL**, incluyendo **MongoDB**. Además, me dedico al **análisis de datos** y tengo habilidades en **pandas**, **NumPy** y **scikit-learn**.
 
 ## Habilidades 🛠️
 
@@ -16,10 +15,13 @@ Soy un apasionado **Desarrollador de Python** especializado en **backend con Fas
 - **Scikit-learn** - Modelado predictivo y machine learning.
 
 ## Contacto 📫
++5351368261
+abelmetaltele@gmail.com
 
 Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contactarme.
 
-¡Espero que disfrutes revisando mis proyectos!
+¡Espero que disfrutes revisando mis proyectos y conozcas más sobre mi trabajo y experiencia!
+
 
 <!--
 **abelito89/abelito89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
