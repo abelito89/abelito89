@@ -8,16 +8,20 @@ Mi nombre es **Abel Gómez Méndez**, un apasionado **Desarrollador de Python** 
 
 - **Python** - Lenguaje principal para desarrollo y análisis de datos.
 - **FastAPI** - Creación de APIs robustas y eficientes.
+- **Reflex** - Desarrollo Web Front-end.
 - **SQL** - Diseño y gestión de bases de datos relacionales.
 - **MongoDB** - Trabajo con bases de datos NoSQL para aplicaciones escalables.
 - **Data Science** - Análisis y visualización de datos para obtener insights valiosos.
 - **Pandas & NumPy** - Manipulación y procesamiento de datos.
 - **Scikit-learn** - Modelado predictivo y machine learning.
+- **Keras-Tensorflow** - Deep Learning y entrenamiento de Redes Neuronales Artificiales.
 
 ## Contacto 📫
 +5351368261
 
 abelmetaltele@gmail.com
+
+https://abelito89-link-bio.reflex.run/
 
 Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contactarme.
 
